@@ -7,11 +7,12 @@ Inspired by the DavidBoyes fork of SDWebImage (https://github.com/DavidBoyes/SDW
 
 Using the OCProgress Indicator from Obsessive Code (http://www.obsessivecode.com/projects/ocprogress/).
 
---Installation--
-
+<strong><h2>Installation</h2></strong>
 Follow the installation instructions here: https://github.com/rs/SDWebImage
 
 
---TODO--
-- Include ability to turn progress indicator on/off depending on property.
-- Ability to manually set size of OCProgress.
+<h2>TODO</h2>
+<ul style="list-style-type: disc; color: #009900">  
+  <li>Include ability to turn progress indicator on/off depending on property.</li>  
+  <li>Ability to manually set size of OCProgress.</li>  
+</ul>
