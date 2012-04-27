@@ -7,7 +7,7 @@ Inspired by the DavidBoyes fork of SDWebImage (https://github.com/DavidBoyes/SDW
 
 Using the OCProgress Indicator from Obsessive Code (http://www.obsessivecode.com/projects/ocprogress/).
 
-<strong><h2>Installation</h2></strong>
+<strong><h1>Installation</h1></strong>
 Follow the installation instructions here: https://github.com/rs/SDWebImage
 
 
